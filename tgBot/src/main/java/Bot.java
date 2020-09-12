@@ -315,7 +315,7 @@ public class Bot extends TelegramLongPollingBot
      */
     @Override
     public String getBotToken() {
-        return "1022086012:AAGvz2l5OXVT6-Zyh_Lp9T-8MAVo61EaJwY";
+        return "***";
     }
 
     private synchronized  void startPlanCollecting()
